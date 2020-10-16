@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "rossperry",
+    "password": null,
+    "database": "lakest-dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "rossperry",
+    "password": null,
+    "database": "lakest-test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "rossperry",
+    "password": null,
+    "database": "lakest-prod",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
